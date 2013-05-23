@@ -5,7 +5,7 @@ Quick and dirty API docs
 
 `/fund-treatments.json`
 
-```json
+```javascript
 {
   profiles: 
   [

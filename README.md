@@ -4,7 +4,7 @@ api
 Quick and dirty API docs. We will attempt to follow [jsonapi](http://jsonapi.org/) standards 
 using RABL via [these guidelines](https://github.com/nesquena/rabl/wiki/Conforming-to-jsonapi.org-format)
 
-`/fund-treatments.json`
+`GET /fund-treatments.json`
 
 ```javascript
 {

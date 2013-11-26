@@ -26,6 +26,19 @@ using RABL via [these guidelines](https://github.com/nesquena/rabl/wiki/Conformi
       donated: "$111",
       number_of_donors: 19
     }
+  ],
+  funds:
+  [
+    {
+      id: 1,
+      token: "universal",
+      name: "Universal Fund",
+      promo_description: "100% of your donation funds medical care for patients around the world.",
+      url: "https://watsi.org/funds/universal-fund",
+      badge_url: "https://d3w52z135jkm97.cloudfront.net/uploads/fund/image/1/badge_UF6002.jpg",
+      profile_url: "https://d3w52z135jkm97.cloudfront.net/uploads/fund/image/1/profile_UF6002.jpg",
+      number_of_donors: 65
+    }
   ]
 }
 ```
